@@ -1,0 +1,67 @@
+
+
+ ACNE: {
+        QUESTIONS: {
+            "At what age did your acne start?",
+            "What over-the-counter products have you used for your acne? What were the results and are you still using any?",
+            "Have you ever used Accutane?  If so, what were the results and are you still using it?",
+            "Does your acne cause pitting or scars?",
+            "Are you using any hormonal agents?",
+            "Do you have any known allergies?",
+            "Please list out any allergies you have:",
+            "Please list all your current medicines, vitamins, and dietary supplements (include any that you have taken in the past month, even if you are not taking them today).",
+            "Do you have any medical conditions or a history of prior surgeries?",
+            nes: "What other prescription medication have you used for your acne? What were the results and are you still using any?"
+        }
+    },
+  STOMACH: {
+        QUESTIONS:{
+            "How long have you had trouble with urination?",
+            "Please mark your most problematic symptoms",
+            "Have you ever had to use a catheter to urinate?",
+            "Have you had to use diapers for urination difficulties?",
+            "Have you ever had a cystoscopy?",
+            "Please list any known findings on the cystoscopy",
+            "Do you have any prior history of genitourinary cancers?",
+            "Please list any cancers you have had:",
+            "Do you have a history of kidney or bladder infections?",
+            "Do you have a history of kidney stones?",
+            "Have you had a genital exam with a healthcare provider in the past five years?",
+            "Please check any medications you have taken for bladder control:",
+            "Have you ever had botox injections for spasms?",
+            "Have you been examined by a urologist?",
+            "Do you have any known allergies?"         
+        }
+    },
+    COLD: {
+        QUESTIONS:{
+            "When did you first start getting them?",
+            "How many times have you had cold sore outbreaks in the past year?",
+            "If you get a cold sore how long does it usually last?",
+            "Have you had a cold sore before?",
+            "Have you had any of the following symptoms associated with your cold sore?",
+            "Do you take any of the following recreational drugs?",
+            "Are you currently taking any of the following over-the-counter medications?",
+            "Are you immune deficient (or immunocompromised) in any way?",
+            "Please list all your current medicines, vitamins, and dietary supplements (include any that you have taken in the past month, even if you are not taking them today).Otherwise, just leave the box blank and click Next."
+        }
+    },
+    HAIRLOSS: {
+        QUESTIONS:{
+            "At what age did you first start noticing hair loss?",
+            "How long ago did you first notice any signs of hair loss?",
+            "Please pick the best description of your hair?",
+            "I have experienced the following hair loss symptoms (select those that apply):",
+            "I have experienced the following hair loss symptoms (select those that apply), Please explain your hair loss symptoms :",
+            "Have you ever been formally treated for hair loss?",
+            "Do you have a family history of hair loss?"
+        }
+    },
+      DEFAULT: {
+        QUESTIONS:{
+          "The Doctor can help. Just a couple quick questions before I transfer you. What are all your symptoms? Are you currently using any medications?",
+           "What's your age and gender?",
+          "Anything else in your medical history you think the Doctor should know?",
+          "OK. Got it. I'm sending you to a secure page to join OnlineDoctors"
+        }
+    }
